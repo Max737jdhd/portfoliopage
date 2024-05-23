@@ -139,7 +139,7 @@ function App() {
                     Live preview
                   </button>
                   <button className="flex-1 text-sm py-3 border rounded-full hover:border-blue-500 hover:text-blue-500">
-                    <a href="https://github.com/Max737jdhd/shoes-website">
+                    <a href="">
                       {" "}
                       Checkout github
                     </a>
@@ -237,7 +237,7 @@ function App() {
           <div>
             <ul className="flex gap-4">
               <li>
-                <a href="https://www.linkedin.com/in/ravi-k-makwana-990a05268?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+                <a href="">
                   <img src={LinkedIn} className="w-5" />
                 </a>
               </li>
